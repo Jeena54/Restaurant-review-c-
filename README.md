@@ -41,6 +41,6 @@ This project is licensed under the Natsasion License. For detailed information, 
 
 ## Contact
 
-If you have any questions, feedback, or need assistance, please don't hesitate to reach out to us at [natsasion.sri@gmail.com](mailto:natsasion.sri@gmail.com).
+If you have any questions, feedback, or need assistance, please don't hesitate to reach out to us at 
 
 Restaurant Reviews Web - Discover, Explore, and Keep Restaurant Data Updated!
